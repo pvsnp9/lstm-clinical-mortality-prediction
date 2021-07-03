@@ -1,5 +1,4 @@
-﻿
-**1   Introduction**
+﻿**1   Introduction**
 
 Critical care has been first step for emergency/acute diseases in the hospitals. Understanding and improving critical care in the hospital has been a topic of concern where science can improve the result and might prevent the  possible  fatalities.  The  data  collected  in  hospitals  critical  care  unit  includes  medications,  laboratory measurements, vital signs, and observation and notes by care takers. With the help of database – MIMIC III (Medical Information Mart for Intensive Care) [1]. we will be predicting mortality of patient admitted and diagnosed  at  the  hospital  for  24  hours.  The  MIMIC  database  is  deidentified  single-center  database  for comprehensive clinical data of patients admitted at the Beth Israel Deacones Medical Center in Boston Massachusetts. The database consists of larger (~ 6 GB) of clinical records and widely accessible to research.  
 
